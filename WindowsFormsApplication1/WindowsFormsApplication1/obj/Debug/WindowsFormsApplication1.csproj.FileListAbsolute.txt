@@ -1,0 +1,14 @@
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Z1.resources
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Z2.resources
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Z4.resources
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Z5.resources
+C:\Ириша\учеба\7 семестр\Инстр.ср\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Zapr3.resources
